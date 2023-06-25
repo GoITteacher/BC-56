@@ -75,5 +75,5 @@
 
 ## Посилання
 
-- [FIGMA]()
-- [TЗ]()
+- [FIGMA](https://www.figma.com/file/JB3QBTgXBIHU24nMOtmVmK/Book?node-id=0-1&t=ql5eRhMaBuMR1Eje-0)
+- [TЗ](https://docs.google.com/spreadsheets/d/1p2P89GVo0HYGW2h2dXxrxxjMbpAB5T8RG-wy4oaEkNw/edit?usp=sharing)
