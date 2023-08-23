@@ -35,9 +35,7 @@
 const obj1 = {
   name: 'obj1',
   func() {
-    //this = obj1
     return () => {
-      // this = obj1
       console.log(this);
     };
   },
@@ -60,9 +58,9 @@ const newFunc2 = result.bind(obj1);
 const arrow = () => {
   return newFunc2;
 };
-// const newFunc3 = newFunc2.bind(obj2);
-// const res = newFunc3();
-// res();
+const newFunc3 = newFunc2.bind(obj2);
+const res = newFunc3();
+res();
 
 // =========================================
 
